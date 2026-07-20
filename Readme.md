@@ -98,6 +98,7 @@ Columns include:
 - Applicants
 - Company Rating
 - Date Posted
+- Job Description
 - Company ID (FK)
 - Location ID (FK)
 
@@ -149,6 +150,7 @@ Primary Keys and Foreign Key relationships are maintained to support analytical 
         applicants
         company_rating
         date_posted
+        job_description
         company_id (FK)
         location_id (FK)
                    ▲
