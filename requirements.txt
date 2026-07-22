@@ -6,7 +6,6 @@ seaborn
 matplotlib
 sqlalchemy
 psycopg2-binary
-psycopg2
 openpyxl
 pymupdf
 langchain-core
