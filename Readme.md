@@ -247,8 +247,6 @@ A Hugging Face Large Language Model analyzes the resume and generates:
 - Missing Skills
 - Skill Gap Analysis
 - Resume Improvement Suggestions
-- Personalized Learning Roadmap
-- Career Recommendations
 
 ---
 
@@ -315,4 +313,4 @@ A Hugging Face Large Language Model analyzes the resume and generates:
 - Retrieval-Augmented Generation (RAG)
 - Semantic Job Matching
 - ATS Compatibility Analysis
-- Personalized Career Guidance
+  
