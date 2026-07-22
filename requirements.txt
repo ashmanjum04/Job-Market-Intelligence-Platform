@@ -26,3 +26,4 @@ langchain-huggingface
 streamlit
 groq
 langchain-groq
+torchvision
